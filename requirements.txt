@@ -17,3 +17,4 @@ jupyter_contrib_nbextensions
 beautifulsoup4
 jsonify
 #json
+charset-normalizer
